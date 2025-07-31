@@ -2,8 +2,8 @@
 This is a *responsive landing page* for *Scoreazy's Mentorship Program, designed as part of a **Web Development Internship Assignment. The page highlights key features of the program, including personalized study plans, expert mentors, and success stories, with clear **call-to-action (CTA)* buttons to encourage user engagement.  
 
 ### *🔗 Live Demo (Optional)*  
-If hosted, include a link (e.g., GitHub Pages, Netlify, Vercel):  
-👉 [https://scoreazy-mentorship-demo.netlify.app](https://scoreazy-mentorship-demo.netlify.app)  
+If hosted, include a link (e.g., GitHub Pages, Vercel):  
+👉 (https://scoreazy-intern.vercel.app/)  
 
 ---
 
